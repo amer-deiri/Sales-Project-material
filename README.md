@@ -1,6 +1,7 @@
 Project Title :
 
-<B>Sales Performance Analysis Dashboard Using Excel</B>
+<B>Sales Performance Analysis Dashboard Using Excel</B> 
+
 
 Project Overview :
 
@@ -12,25 +13,30 @@ The final output is a multi-page interactive dashboard highlighting key performa
 
 The data reveals a company's sales operations across various products, channels (Retail, Wholesale, Key Accounts, Door to Door), segments (Business, Consumer), regions (Northeast, Southeast, Midwest, etc.), and sales representatives. It focuses on metrics like net sales, order volumes, and growth, providing a comprehensive view of business health and opportunities for optimization.
 [Insert Project Screenshot Here: Overview of the Excel Dashboard Home Page]
-Dataset Used
+
+Dataset Used :
+
 The dataset consists of 7 Excel files containing structured sales and reference data:
 
-sales 2022.xlsx: Contains 387,383 rows of sales transactions for 2022, including Order ID, SalesRepID, Product ID, Order Date, ChannelID, SegmentID, RegionID, Quantity, and Discount.
-sales 2023.xlsx: Contains 374,828 rows of sales transactions for 2023 (similar structure).
-sales 2024.xlsx: Contains 907,428 rows of sales transactions for 2024 (similar structure, up to November 2024).
-Product.xlsx: Product details (25 products) with IDs, names, categories (Accessories, Bikes, Clothing, Components), and yearly prices (2022–2024).
-emp info.xlsx: Sales rep information (80 reps) including ID, Name, Date of Birth, Hiring Date, Band, and Marital Status.
-regions.xlsx: 7 regions with IDs and names (e.g., Northeast: 3001).
-channels & segmant.xlsx: Channels (4 types with IDs) and Segments (Business: 5001, Consumer: 5002).
+-  sales 2022.xlsx: Contains 387,383 rows of sales transactions for 2022, including Order ID, SalesRepID, Product ID, Order Date, ChannelID, SegmentID, RegionID, Quantity, and Discount.
+-  sales 2023.xlsx: Contains 374,828 rows of sales transactions for 2023 (similar structure).
+-  sales 2024.xlsx: Contains 907,428 rows of sales transactions for 2024 (similar structure, up to November 2024).
+-  Product.xlsx: Product details (25 products) with IDs, names, categories (Accessories, Bikes, Clothing, Components), and yearly prices (2022–2024).
+-  emp info.xlsx: Sales rep information (80 reps) including ID, Name, Date of Birth, Hiring Date, Band, and Marital Status.
+-  regions.xlsx: 7 regions with IDs and names (e.g., Northeast: 3001).
+-  channels & segmant.xlsx: Channels (4 types with IDs) and Segments (Business: 5001, Consumer: 5002).
 
-Data Sources: Provided as raw Excel files. Total records: Over 1.6 million sales transactions across years. Dates are in Excel serial format (e.g., 44743 for 2022 dates) or string format (e.g., "16-01-24" for 2024). Some files had truncated previews, but full data was assumed for analysis.
+Data Sources: Provided as raw Excel files. Total records: Over 1.6 million sales transactions across years. 
+Dates are in Excel serial format (e.g., 44743 for 2022 dates) or string format (e.g., "16-01-24" for 2024). 
+Some files had truncated previews, but full data was assumed for analysis.
+
 Key Themes in Data:
 
 Sales growth year-over-year (YOY).
 Product performance by category (e.g., Bikes drive high revenue due to higher prices).
 Variations by channel (e.g., Retail may have higher volumes), segment (Consumer vs. Business), and region (e.g., West and Pacific as top performers).
 
-Tools Used
+Tools Used : 
 
 Microsoft Excel: Primary tool for the entire project.
 
@@ -42,7 +48,8 @@ Conditional Formatting: To highlight trends (e.g., green for positive growth, re
 
 No external tools like Python or SQL were used; all analysis was Excel-native to simulate a real-world business analytics scenario.
 
-KPIs and Business Questions Answered
+KPIs and Business Questions Answered : 
+
 Key Performance Indicators (KPIs)
 Based on the data, we focused on these core KPIs (calculated via PivotTables):
 

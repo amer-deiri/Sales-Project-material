@@ -9,6 +9,7 @@ The goal is to uncover insights into sales trends, product performance, channel 
 I used Excel's Power Query for data preparation and PivotTables/Charts for visualization and analysis. 
 The final output is a multi-page interactive dashboard highlighting key performance indicators (KPIs), trends, and recommendations.
 
+
 The data reveals a company's sales operations across various products, channels (Retail, Wholesale, Key Accounts, Door to Door), segments (Business, Consumer), regions (Northeast, Southeast, Midwest, etc.), and sales representatives. It focuses on metrics like net sales, order volumes, and growth, providing a comprehensive view of business health and opportunities for optimization.
 [Insert Project Screenshot Here: Overview of the Excel Dashboard Home Page]
 Dataset Used

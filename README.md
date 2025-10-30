@@ -59,12 +59,19 @@ Key Themes in Data:
 Based on the data, we focused on these core KPIs (calculated via PivotTables):
 
 1- Net Sales: Total revenue after discounts = SUM(Quantity * Price * (1 - Discount)). Overall: ~$74,075,099 (2022–2024 combined).
+
 2- Total Quantity Sold: SUM(Quantity) = 5,783,900 units.
+
 3- Average Order Value (AOV): Net Sales / Total Orders = $55.20.
+
 4- Count of Orders: Unique Order IDs = 1,341,964.
+
 5- YOY Growth: (Current Year Net Sales - Previous Year) / Previous Year * 100. E.g., 2023 vs. 2022: +2.7%; 2024 vs. 2023: +147% (partial year, but indicates strong growth).
+
 6- Product Performance: Top products by net sales (e.g., Mountain Bikes: ~$22M, Cargo Bikes: ~$18M).
+
 7- Performance by Channel/Segment/Region/Sales Rep: E.g., Retail channel: 40% of  sales; Consumer segment: 55% of volume; West region: Highest revenue (~$15M).
+
 8- Time-Series Trends: Monthly/Quarterly sales trends, showing peaks in Q2/Q3.
 
 ### Business Questions Answered
@@ -142,10 +149,13 @@ The dashboard spans at least 3 pages in Excel, using PivotCharts, Slicers (for Y
 
 1- __Home Page__: Overview KPIs (Net Sales, AOV, Total Orders, Quantity Sold) in cards. Pie chart for sales by category; Bar chart for YOY growth.
 [Insert Dashboard Screenshot Here: Home Page with KPI Cards and Pie Chart]
+
 2- __Product Performance Page__: Bar charts for top products by net sales/quantity; Line chart for time-series trends; Table for YOY growth per product.
 [Insert Dashboard Screenshot Here: Product Page with Bar and Line Charts]
+
 3- __Sales by Channel/Segment/Region/Rep Page__: Stacked bar for sales by channel; Map-like table for regions; Heatmap for sales reps (conditional formatting); Trends by segment.
 [Insert Dashboard Screenshot Here: Performance Page with Stacked Bars and Heatmap]
+
 
 The dashboard is interactive—slicing by year updates all visuals.
 
@@ -186,8 +196,14 @@ All Pivots linked to slicers for dynamic filtering.
 ### Recommendations
 
 1 __Product Strategy__: Promote top sellers (Mountain Bikes) and bundle with accessories to boost AOV.
+
 2- __Channel Optimization__: Expand Key Accounts (8003) for higher margins; reduce reliance on Door to Door (low volume).
+
 3- __Regional Focus__: Allocate more resources to high-potential regions (West/Pacific); investigate declines in Midwest.
+
 4- __Sales Rep Training__: Based on band and hiring date, provide mentorship for newer reps to improve performance.
+
 5- __Discount Policy__: Analyze ROI of discounts; test reducing them in high-volume segments to improve margins.
+
 6- __Future Enhancements__: Integrate forecasting in Excel or migrate to Power BI for advanced visuals.
+

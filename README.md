@@ -129,7 +129,7 @@ The data required extensive preparation in Power Query to ensure accuracy and us
 
 
 This process reduced raw data inconsistencies and prepared it for analysis.
-[Insert Screenshot Here: Power Query Editor with Merged Tables]
+![Power Query Editor]( https://github.com/amer-deiri/Sales-Project-material/blob/main/Powequery.png)
 
 
 ### Exploratory Data Analysis (EDA)

@@ -21,7 +21,7 @@ It focuses on metrics like net sales, order volumes, and growth, providing a com
 
 The dataset consists of 7 Excel files containing structured sales and reference data:
 
--  __sales 2022.xlsx__: Contains 387,383 rows of sales transactions for 2022, including Order ID, SalesRepID, Product ID, Order Date, ChannelID, SegmentID, RegionID, Quantity, and Discount.
+-  __sales 2022.xlsx__: Contains 387,383 rows of sales transactions for 2022, including Order ID, SalesRepID, Product ID, Order Date, ChannelID, SegmentID, RegionID, Quantity, and Discount. [sales2022]( https://github.com/amer-deiri/Sales-Project-material/blob/main/sales%202022.xlsx.zip)
 -  __sales 2023.xlsx__: Contains 374,828 rows of sales transactions for 2023 (similar structure).
 -  __sales 2024.xlsx__: Contains 907,428 rows of sales transactions for 2024 (similar structure, up to November 2024).
 -  __Product.xlsx__: Product details (25 products) with IDs, names, categories (Accessories, Bikes, Clothing, Components), and yearly prices (2022–2024).

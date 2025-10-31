@@ -16,7 +16,7 @@ The final output is a multi-page interactive dashboard highlighting key performa
 The data reveals a company's sales operations across various products, channels (Retail, Wholesale, Key Accounts, Door to Door), segments (Business, Consumer), regions (Northeast, Southeast, Midwest, etc.), and sales representatives. 
 It focuses on metrics like net sales, order volumes, and growth, providing a comprehensive view of business health and opportunities for optimization.
 
-(https://github.com/amer-deiri/Sales-Project-material/blob/main/Dashboard.png) 
+![Dashboard](https://github.com/amer-deiri/Sales-Project-material/blob/main/Dashboard.png)
 ### Dataset Used :
 
 The dataset consists of 7 Excel files containing structured sales and reference data:

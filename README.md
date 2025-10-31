@@ -21,13 +21,13 @@ It focuses on metrics like net sales, order volumes, and growth, providing a com
 
 The dataset consists of 7 Excel files containing structured sales and reference data:
 
--  __sales 2022.xlsx__: Contains 387,383 rows of sales transactions for 2022, including Order ID, SalesRepID, Product ID, Order Date, ChannelID, SegmentID, RegionID, Quantity, and Discount. [sales2022]( https://github.com/amer-deiri/Sales-Project-material/blob/main/sales%202022.xlsx.zip)
--  __sales 2023.xlsx__: Contains 374,828 rows of sales transactions for 2023 (similar structure). [sales2023]( https://github.com/amer-deiri/Sales-Project-material/blob/main/sales%202023.xlsx.zip)
+-  __sales 2022.xlsx__: Contains 387,383 rows of sales transactions for 2022, including Order ID, SalesRepID, Product ID, Order Date, ChannelID, SegmentID, RegionID, Quantity, and Discount. [sales2022]( https://github.com/amer-deiri/Sales-Project-material/blob/main/Project_files/sales%202022.xlsx)
+-  __sales 2023.xlsx__: Contains 374,828 rows of sales transactions for 2023 (similar structure). [sales2023]( https://github.com/amer-deiri/Sales-Project-material/blob/main/Project_files/sales%202023.xlsx)
 -  __sales 2024.xlsx__: Contains 907,428 rows of sales transactions for 2024 (similar structure, up to November 2024). [sales2024]( https://github.com/amer-deiri/Sales-Project-material/blob/main/sales%202024.xlsb)
--  __Product.xlsx__: Product details (25 products) with IDs, names, categories (Accessories, Bikes, Clothing, Components), and yearly prices (2022–2024). [Product]( https://github.com/amer-deiri/Sales-Project-material/blob/main/Product.xlsx.zip)
--  __emp info.xlsx__: Sales rep information (80 reps) including ID, Name, Date of Birth, Hiring Date, Band, and Marital Status. [emp_info]( https://github.com/amer-deiri/Sales-Project-material/blob/main/emp%20info.xlsx.zip)
--  __regions.xlsx__: 7 regions with IDs and names (e.g., Northeast: 3001). [regions]( https://github.com/amer-deiri/Sales-Project-material/blob/main/regions.xlsx.zip)
--  __channels & segmant.xlsx__: Channels (4 types with IDs) and Segments (Business: 5001, Consumer: 5002). [channels&segment]( https://github.com/amer-deiri/Sales-Project-material/blob/main/channels%20%26%20segmant.xlsx.zip)
+-  __Product.xlsx__: Product details (25 products) with IDs, names, categories (Accessories, Bikes, Clothing, Components), and yearly prices (2022–2024). [Product]( https://github.com/amer-deiri/Sales-Project-material/blob/main/Project_files/Product.xlsx)
+-  __emp info.xlsx__: Sales rep information (80 reps) including ID, Name, Date of Birth, Hiring Date, Band, and Marital Status. [emp_info]( https://github.com/amer-deiri/Sales-Project-material/blob/main/Project_files/emp%20info.xlsx)
+-  __regions.xlsx__: 7 regions with IDs and names (e.g., Northeast: 3001). [regions]( https://github.com/amer-deiri/Sales-Project-material/blob/main/Project_files/regions.xlsx)
+-  __channels & segmant.xlsx__: Channels (4 types with IDs) and Segments (Business: 5001, Consumer: 5002). [channels&segment]( https://github.com/amer-deiri/Sales-Project-material/blob/main/Project_files/channels%20%26%20segmant.xlsx)
 
 Data Sources: Provided as raw Excel files. Total records: Over 1.6 million sales transactions across years. 
 Dates are in Excel serial format (e.g., 44743 for 2022 dates) or string format (e.g., "16-01-24" for 2024). 
